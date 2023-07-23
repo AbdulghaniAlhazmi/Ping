@@ -1,4 +1,4 @@
 Ping Pong game using JavaScript & CSS
 
-the game contain 5 rounds against AI 
-First to score a certian number of points wins.
+the game contains 5 rounds against AI 
+The first to score a certain number of points wins.
